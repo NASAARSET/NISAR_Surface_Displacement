@@ -1,5 +1,5 @@
 </p>
-<img width="544" height="408" alt="arset-2026-reservoirs-th" src="https://github.com/user-attachments/assets/a5eb4930-cc5a-427c-a3db-c10c70b848bc" />
+<img width="2500" height="500" alt="ARSET-SurfaceDisplacement2026-hero" src="https://github.com/user-attachments/assets/ce840b63-9756-460e-b67c-94e965b9a8d0" />
 
 
 # Identifying Disaster Extent and Risk Using NISAR Surface Displacement
